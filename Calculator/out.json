@@ -1,0 +1,11 @@
+{
+    "Calculations": [
+        {
+            "exprnumber": 1,
+            "number1": "60",
+            "number2": "67",
+            "operation": "+",
+            "result": 127
+        }
+    ]
+}
